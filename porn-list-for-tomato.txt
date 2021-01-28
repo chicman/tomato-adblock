@@ -1,3 +1,8 @@
+# UPDATED: 1-28-2021
+# a good list for clean network
+# under Tomato routers, insert the URL into Advanced/Adblock
+#
+
 0.0.0.0 tktube.com
 0.0.0.0 javmost.com
 0.0.0.0 livejasmin.com
